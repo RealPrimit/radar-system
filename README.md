@@ -44,8 +44,3 @@ This project simulates a basic radar system using an Arduino UNO, an ultrasonic 
    - Line 24: Set display resolution
    - Line 26: Set correct COM port
 5. Run both sketches to start the radar system.
-
-
-## 📄 License
-
-
